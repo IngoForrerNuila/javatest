@@ -1,0 +1,81 @@
+body { 
+    height: 100%;
+    background-color: white;
+    margin: 0;
+}
+
+/*/this is the old clock/*/
+#clock {
+    margin-top: -100px;
+    font-size: 250px;
+    text-align: center;
+    color: white;
+    background-color: palevioletred;
+    
+}
+
+#date {
+    font-size: 30px;
+    color: gray;
+}
+
+/*/new clock settings/*/
+#newclock {
+    font-size: 270px;
+    text-align: center;
+    color: rgb(253, 212, 123);
+    
+
+}
+
+.contador {
+
+    margin-top: 20px;
+    font-size: 270px;
+    text-align: center;
+    color: rgb(102, 146, 211);
+    
+
+}
+
+.container {
+    min-height: 100vh;
+    display: flex; 
+    justify-content: space-around;
+    
+}
+
+.continer2 {
+    display: flex;
+    align-items: center;
+
+}
+
+.sflag {
+
+    max-height: 40vh;
+}
+
+.container3{
+    min-height: 100vh;
+    display: flex; 
+    justify-content: space-around;
+    
+}
+
+.continer4 {
+    display: flex;
+    align-items: top;
+
+}
+
+.esa {
+
+    max-height: 40vh;
+}
+
+.dateTime {
+    mmin-height: 100vh;
+    display: flex; 
+    justify-content: space-around;
+}
